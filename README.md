@@ -24,7 +24,7 @@ $ npm run dev
 
 8. Hit RUN on every collection.
 
-<<<<<<<<<<<<<<<<<<<<<<<--------------------------------------------------->>>>>>>>>>>>>>>>>>>>>>>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TMDb ( ) is an open API for using Movies, TV Shows and Actors info, images etc in an application. https://developers.themoviedb.org/3
 You can create an account & obtain a free API Key by using the following guide :  https://developers.themoviedb.org/3/getting-started/introduction
