@@ -15,7 +15,7 @@ $ npm i
 
 5. To start local dev server use folowing comand
 ```sh
-$ npm run dev
+$ npm run start
 ```
 
 6. POSTMAN Collection are there in folder "Collections"
