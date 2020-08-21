@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "a49a0ee4-4880-4ac4-b59a-fce16783dd75",
+		"name": "07. lakshyaTV",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "topEpisodes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/topEpisodes/20",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"topEpisodes",
+						"20"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "popularSeries",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/analytics/popularSeries",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"analytics",
+						"popularSeries"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

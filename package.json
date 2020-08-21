@@ -1,0 +1,24 @@
+{
+  "name": "lakshyatv",
+  "version": "1.0.0",
+  "description": "Middle layer for lakshya TV using node and hapi",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "hapi": "^18.1.0",
+    "inert": "^4.0.3",
+    "nes": "^6.4.0",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {}
+}
